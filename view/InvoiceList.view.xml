@@ -1,0 +1,18 @@
+{
+  "run": [
+    {
+      "filePath": "/Eladapp1/index.html",
+      "previewMode": 0,
+      "dataMode": 1,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "_metadata": {
+        "runnerId": "webapprunner",
+        "id": 7144524,
+        "displayName": "New Web Application"
+      }
+    }
+  ]
+}
