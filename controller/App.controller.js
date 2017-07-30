@@ -1,5 +1,5 @@
 //changes dana 11:29
-//jhj
+
 sap.ui.define([
    "sap/ui/core/mvc/Controller" 
    ], function (Controller  ) {
